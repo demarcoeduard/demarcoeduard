@@ -15,7 +15,7 @@
 
 ⚡ Fun fact **The term 'bug' for computer issues was invented when Grace Hopper found a moth in a computer, marking the first literal 'debugging' of a computer!**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="demarcoeduard@gmail.com" target="_blank">
@@ -38,14 +38,4 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,vscode,firebase,github,git"/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/demarcoeduard/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
