@@ -18,7 +18,7 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:demarcoeduard@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=demarcoeduard@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://www.linkedin.com/in/de-marco-eduard-92a302263/" target="_blank">
