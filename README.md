@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/de-marco-eduard/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://wa.me/0769301288">
+  <a href="https://wa.me/+40769301288">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"/>
   </a>
   <a href="https://t.me/demarcoeduard">
