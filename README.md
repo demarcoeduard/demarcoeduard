@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a music player**
+ 🔭 I’m currently working on **a personal finance dashboard**
  
  🌱 I’m currently learning **advanced concepts and techniques in Angular to further enhance my skills and proficiency in front-end development**
 
