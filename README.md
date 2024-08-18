@@ -9,9 +9,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a personal finance dashboard**
+ 🔭 I’m currently working on **a book discovery and recommendation platform!**
  
- 🌱 I’m currently learning **advanced concepts and techniques in Angular to further enhance my skills and proficiency in front-end development**
+ 🌱 I’m currently working on **projects to improve my Angular understanding** while also **expanding my skill set by diving into React as my next framework!**
 
 ⚡ Fun fact **The term 'bug' for computer issues was invented when Grace Hopper found a moth in a computer, marking the first literal 'debugging' of a computer!**
 
